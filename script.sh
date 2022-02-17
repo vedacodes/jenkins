@@ -1,2 +1,4 @@
 ls
 pwd
+ls -lrt
+
